@@ -1,10 +1,10 @@
 import React from "react";
 
 const date = new Date();
-const time = date.getHours();
+const year = date.getFullYear();
 
 function Footer() {
-  return <p className="footer">copyright &copy; {time}</p>;
+  return <p className="footer">copyright {year}</p>;
 }
 
 export default Footer;

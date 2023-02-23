@@ -12,7 +12,7 @@
 //HINT: You will need to study the classes in the styles.css file to appy styling.
 
 import React from "react";
-import ReactDOM from "react";
+import ReactDOM from "react-dom";
 import App from "./Components/App";
 
 ReactDOM.render(

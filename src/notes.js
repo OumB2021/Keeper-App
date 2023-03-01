@@ -23,6 +23,12 @@ const notes = [
     content:
       "What's the difference between hardware and software? You can hit your hardware with a hammer, but you can only curse at your software.",
   },
+
+  {
+    key: 5,
+    title: "Big idea",
+    content: "Stop being lazy and go to the gym",
+  },
 ];
 
 export default notes;
